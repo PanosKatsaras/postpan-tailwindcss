@@ -1,4 +1,4 @@
-![PostpanImage2](https://github.com/user-attachments/assets/afafdd0f-f4da-4b29-8196-488c7451253b)
+![PostpanImage2](https://github.com/user-attachments/assets/6e7af4f6-4c77-449a-8865-97329d38eff8)
 
 ![PostpanImage1](https://github.com/user-attachments/assets/2af8e4b3-3497-433e-a0a0-c3cd86643671)
 
