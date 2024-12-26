@@ -16,6 +16,8 @@ This Postman clone replicates some of the core features of Postman, allowing dev
 - **Node.js**: Backend framework for handling server logic and API requests.
 - **Tailwind CSS**: Utility-first CSS framework for fast and responsive styling.
 - **CodeMirror**: Rich text editor for syntax highlighting and code formatting.
+- **Axios**: Promise-based HTTP client for making API requests.
+- **Snowpack**: Frontend build tool for lightning-fast development and hot module reloading.
 
 ## Installation
 
