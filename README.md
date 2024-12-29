@@ -54,4 +54,4 @@ Follow these steps to set up the project locally:
 3. Enter the API endpoint URL.
 4. (Optional) Add headers, query parameters, or a request body.
 5. Click **Send** to make the request.
-6. View the response, including status, headers, and body, in the results panel.
+6. View the response, including response time, headers, and body, in the results panel.
